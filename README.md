@@ -6,4 +6,4 @@ The project can be viewed live at : [https://ahmetalper0.github.io/image-gallery
 
 ## Screenshots
 
-![Website](image.png)
+![Image](image_gallery.png)
